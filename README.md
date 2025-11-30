@@ -14,7 +14,7 @@ I'm a hobby developer who likes to build software.
 
 ## Skills & Tools
 - Languages: JavaScript, Python, HTML/CSS
-- Frameworks: React, Next.js, Node.js
+- Frameworks: React, Expo, Node.js
 - Tools: Git, Vercel, VS Code
 
 ## Contact Me
