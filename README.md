@@ -9,7 +9,7 @@ I'm a hobby developer who likes to build software.
 
 ## Projects I'm Proud Of
 - [My.Zero](https://github.com/rilwag2612/my.zero): An open source alternative to Edulink One.
-- [Sparkly](https://sparkly.creeper.sbs): A hobby games website.
+- [Sparkly](https://sparkly.creepers.sbs): A hobby games website.
 - [TLS Toolkit](https://github.com/rilwag2612/tls-toolkit): An app for my secondary school.
 
 ## Skills & Tools
