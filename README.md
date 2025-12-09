@@ -4,7 +4,7 @@ I'm a hobby developer who likes to build software.
 ## My GH Stats
 [![My Top Languages](https://readme-seven.vercel.app/api/top-langs/?username=rilwag2612&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub Stats](https://readme-seven.vercel.app/api?username=rilwag2612&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=rilwag2612&hide_border=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rilwag2612)](https://git.io/streak-stats)
 
 ---
 
