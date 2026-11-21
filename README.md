@@ -16,12 +16,7 @@
 ### 🤫 Psst...
 
 Looking for unblocked games?  
-Check out **Sparkly Games** 👉 https://github.com/sparkly-games/sparkly
-
----
-
-### About Me
-I am a student at The Lenham School with a strong interest in coding and 3D printing. I enjoy turning ideas into real projects, experimenting with new tools, and learning by building things that actually do something.
+Check out **Spark X3** 👉 https://github.com/sparkly-games/spark-x3
 
 ---
 
